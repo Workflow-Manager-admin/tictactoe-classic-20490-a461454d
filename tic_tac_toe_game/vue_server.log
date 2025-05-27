@@ -9,3 +9,7 @@
   ➜  Network: http://172.17.0.2:3000/
   ➜  Vue DevTools: Open http://localhost:3000/__devtools__/ as a separate window
   ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+7:59:40 PM [vite] vite.config.ts changed, restarting server...
+failed to load config from /home/kavia/workspace/code-generation/tictactoe-classic-20490-a461454d/tic_tac_toe_game/vite.config.ts
+7:59:40 PM [vite] tr is not defined
+7:59:40 PM [vite] server restart failed
