@@ -13,3 +13,5 @@
 failed to load config from /home/kavia/workspace/code-generation/tictactoe-classic-20490-a461454d/tic_tac_toe_game/vite.config.ts
 7:59:40 PM [vite] tr is not defined
 7:59:40 PM [vite] server restart failed
+7:59:42 PM [vite] vite.config.ts changed, restarting server...
+7:59:42 PM [vite] server restarted.
